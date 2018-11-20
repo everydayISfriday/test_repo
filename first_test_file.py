@@ -12,4 +12,7 @@ def foo2(x):
 def foo3(x):
     return x**8
 
+def foo4(x):
+    return x**8
+
 print(datetime.time())
